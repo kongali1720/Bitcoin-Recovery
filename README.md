@@ -19,10 +19,16 @@
   🔐 <b>Unlock the Secrets of Bitcoin Recovery</b> 🔐
 </p>
 
-<p align="center" style="font-size:18px;">
-  Lost access to your Bitcoin wallet? <br>
-  Forgotten your private key? <br>
-  Think all hope is gone? 💥
+<p align="center">
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Lost_access_to_your_Bitcoin_wallet-FF4500?style=for-the-badge&logo=bitcoin&logoColor=white" height="35">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Forgotten_your_private_key-00FF00?style=for-the-badge&logo=keybase&logoColor=white" height="35">
+  </a>
+  <a href="#" target="_blank">
+    <img src="https://img.shields.io/badge/Think_all_hope_is_gone-1E90FF?style=for-the-badge&logo=exclamation&logoColor=white" height="35">
+  </a>
 </p>
 
 <p align="center" style="font-size:18px;">
